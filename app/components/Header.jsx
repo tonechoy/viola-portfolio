@@ -34,7 +34,8 @@ const Header = () => {
         I am a frontend developer from California, USA with 10 years of experience in multiple companies like Microsoft, Tesla and Apple.
       </p> */}
       <p className='max-w-2xl mx-auto font-ovo'>
-        I am a tech enthusiast, passionate about new technology, have done a few projects with the use of html, css, JavaScript, React JS, Node.Js, different types of databases, etc. Please feel free to scroll down below to learn more about me.
+        I am a tech enthusiast, passionate about new technology, have done a few projects with the use of html, css, JavaScript, React JS, Node.Js, different types of databases, etc. <br />
+        Scroll down below to learn more about me!
       </p>
 
       {/* buttons */}
@@ -56,6 +57,8 @@ const Header = () => {
           my resume 
           <Image src={assets.download_icon} alt='' className='w-4'/></motion.a>
       </div>
+      
+      
     </div>
   )
 }

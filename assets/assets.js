@@ -46,6 +46,7 @@ import postgresql_logo from "./postgresql-logo-80x80.png";
 import postgresql_name_logo from "./postgresql-name-logo-80x80.png";
 import microsoft_logo from "./microsoft-logo.png";
 import react_logo from "./react.svg";
+import down_arrow_black from "./down-arrow-black.svg";
 
 export const assets = {
   user_image,
@@ -96,6 +97,7 @@ export const assets = {
   postgresql_name_logo,
   microsoft_logo,
   react_logo,
+  down_arrow_black,
 };
 
 export const workData = [
